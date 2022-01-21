@@ -1,0 +1,4 @@
+prompt_toolkit == 1.0.14
+whaaaaat>=0.5.2
+transitions>=0.7.2
+pyfiglet >= 0.8.post1
