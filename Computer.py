@@ -1,5 +1,4 @@
 from DatabaseManager import Database
-from typing import List
 
 product_types = {
     "Keyboard": "Keyboard",
@@ -17,6 +16,7 @@ product_types = {
     "Operating System": "Operating System"}
 currency_symbols = {"real": "R$"}
 db = Database()
+
 
 class AddProduct():
     def __init__(
@@ -86,8 +86,9 @@ class AddProduct():
                 print(f' \t\t{key} -> {data[key]}')
     """
 
+
 class AssembleComputer():
-    def __init__(self, name:str , currency_symbol: str, description: str = '', parts: tuple = tuple()):
+    def __init__(self, name: str, currency_symbol: str, description: str = '', parts: tuple = tuple()):
         self.name = name
         self.currency_symbol = currency_symbol
         self.description = description
@@ -95,7 +96,7 @@ class AssembleComputer():
         self.__validate_data()
         self.__calculate_price_total()
         db.insert_computer(self.get_tuple())
-        
+
     def __validate_data(self):
         if not self.currency_symbol in currency_symbols.values():
             raise ValueError(
@@ -110,7 +111,7 @@ class AssembleComputer():
             self.currency_symbol,
             self.price_total,
             self.description)
-    
+
     """
     def get_computer_price(self):
         price = 0
