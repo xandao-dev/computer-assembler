@@ -5,8 +5,6 @@
   <p align="center">
     It's a simple tool to select the parts of the computer. It stores the parts in a sqlite database.
     <br />
-    :warning: Work in progress :warning:
-    <br />
 	  <br />
     <a href="https://github.com/xandao6/computer-assembler"><strong>Explore the docs »</strong></a>
     <br />
