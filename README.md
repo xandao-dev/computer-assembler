@@ -42,7 +42,7 @@
 
 <div align="center">
   <a href="https://github.com/xandao6/computer-assembler">
-    <img src="images/logo.png" alt="computer assembler logo">
+    <img src="images/assembler.jpg" alt="computer assembler logo">
   </a>
 </div>
 
