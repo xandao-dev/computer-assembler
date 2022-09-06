@@ -5,12 +5,12 @@
   <p align="center">
     It's a simple tool to select the parts of the computer. It stores the parts in a sqlite database.
     <br />
-	  <br />
-    <a href="https://github.com/xandao6/computer-assembler"><strong>Explore the docs »</strong></a>
     <br />
-    <a href="https://github.com/xandao6/computer-assembler/issue">Report Bug</a>
+    <a href="https://github.com/xandao-dev/computer-assembler"><strong>Explore the docs »</strong></a>
+    <br />
+    <a href="https://github.com/xandao-dev/computer-assembler/issue">Report Bug</a>
     ·
-    <a href="https://github.com/xandao6/computer-assembler/issues">Request Feature</a>
+    <a href="https://github.com/xandao-dev/computer-assembler/issues">Request Feature</a>
   </p>
 </p>
 
@@ -41,7 +41,7 @@
 ## About The Project
 
 <div align="center">
-  <a href="https://github.com/xandao6/computer-assembler">
+  <a href="https://github.com/xandao-dev/computer-assembler">
     <img src="images/assembler.jpg" alt="computer assembler logo">
   </a>
 </div>
@@ -68,7 +68,7 @@
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/xandao6/computer-assembler/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/xandao-dev/computer-assembler/issues) for a list of proposed features (and known issues).
 
 
 <!-- CONTRIBUTING -->
@@ -93,22 +93,6 @@ Free software =)
 <!-- CONTACT -->
 ## Contact
 
-Alexandre Calil - [@xandao6](https://www.linkedin.com/in/xandao6/) - alexandrecalilmf@gmail.com
+Alexandre Calil - [Linkedin](https://www.linkedin.com/in/xandao-dev/) - [alexandre@xandao.dev](mailto:alexandre@xandao.dev)
 
-Project Link: [https://github.com/xandao6/computer-assembler](https://github.com/xandao6/computer-assembler)
-
-
-<!-- LINKS & IMAGES Variables-->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/xandao6/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/xandao6/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/xandao6/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/xandao6/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/xandao6/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/xandao6/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/xandao6/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/xandao6/repo/issues
-[license-shield]: https://img.shields.io/github/license/xandao6/repo.svg?style=for-the-badge
-[license-url]: https://github.com/xandao6/repo/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/xandao6
+Project Link: [https://github.com/xandao-dev/computer-assembler](https://github.com/xandao-dev/computer-assembler)
